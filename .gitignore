@@ -1,0 +1,11 @@
+# Binaries
+calc
+main
+
+# Snapshots
+*.json
+
+# OS-specific
+.DS_Store
+*~
+*.swp
